@@ -1,4 +1,3 @@
-# ibmec_computer_vision
 # Análise de Bordas em Imagem com Filtros Sobel e Canny
 
 ![Python](https://img.shields.io/badge/python-3.8-blue.svg)
